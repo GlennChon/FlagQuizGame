@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFlagQuizGame\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48416774e51963b3bb67ef1a6d68a65d90829221">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFlagQuizGame\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_ced321db71505d1b9c339428c27fa11c9d4af3eb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFlagQuizGame\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa578c32f7c507dd9126a93ea168355d8e5f1e92">
+        <dex dex="D:\Albright\IST972 Android Development\Assignments\GCAssignment3\GCFlagQuizGame\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_cf62953a15de6c14d486d67373cdc5194d9f53bf\classes.dex" />
+    </item>
+
+</items>
